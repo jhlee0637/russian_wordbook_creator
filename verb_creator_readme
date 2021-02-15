@@ -1,0 +1,15 @@
+How to use?
+        python [python file] [verbs list text file] [output file name]
+
+How to organize 'verbs list text file'?
+        As vertical, for example,
+          работать
+          читать
+          гулять
+          ...
+
+How does the output file look like?
+        Russian   English   Word_stress   я   ты    он/она    мы    вы    они
+        
+What is the source of this words?
+        This python file crawls words from https://en.openrussian.org/
