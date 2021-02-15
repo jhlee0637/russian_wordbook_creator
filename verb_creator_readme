@@ -1,5 +1,6 @@
 How to use?
-        python [python file] [verbs list text file] [output file name]
+        using CMD or shell, python3
+        $python [python file] [verbs list text file] [output file name]
 
 How to organize 'verbs list text file'?
         As vertical, for example,
