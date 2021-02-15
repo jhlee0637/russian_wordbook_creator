@@ -10,6 +10,8 @@ How to organize 'verbs list text file'?
 
 How does the output file look like?
         Russian   English   Word_stress   я   ты    он/она    мы    вы    они
+        ※if the verb has 2 different forms, both of them will be printed in 2 lines
         
 What is the source of this words?
         This python file crawls words from https://en.openrussian.org/
+
